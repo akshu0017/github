@@ -12,6 +12,8 @@ GitHub collaboration
 Student Details
 
 Student Name: Akshaya Nair
+
 Interest Group: Web Development
+
 Task: Git Workflow — Branch & Collaborate
 MuLearn ID: akshayanair@mulearn
