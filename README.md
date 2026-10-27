@@ -5,11 +5,11 @@ Practice Git and GitHub collaboration workflows.
 
 Skills Practiced
 
-Repository creation
-Feature branching
-Meaningful commits
-GitHub collaboration
-Student Details
+*Repository creation
+*Feature branching
+*Meaningful commits
+*GitHub collaboration
+*Student Details
 
 Student Name: Akshaya Nair
 
